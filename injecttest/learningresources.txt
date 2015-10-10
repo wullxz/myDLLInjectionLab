@@ -1,0 +1,9 @@
+
+# dll injection theory
+http://blog.opensecurityresearch.com/2013/01/windows-dll-injection-basics.html
+
+# building dlls with mingw
+http://www.mingw.org/wiki/sampledll
+
+# assembler basics
+http://www.opensecuritytraining.info/IntroX86.html
