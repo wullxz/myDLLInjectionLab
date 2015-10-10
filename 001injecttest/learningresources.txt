@@ -6,4 +6,4 @@ http://blog.opensecurityresearch.com/2013/01/windows-dll-injection-basics.html
 http://www.mingw.org/wiki/sampledll
 
 # assembler basics
-http://www.opensecuritytraining.info/IntroX86.html
+http://www.opensecuritytraining.info/IntroX86.html (this is a long tutorial - link to video playlist near bottom of that page)
