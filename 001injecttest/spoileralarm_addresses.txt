@@ -1,0 +1,5 @@
+gets pointer to counterlib.count function entry point
+00401594
+
+address of +1:
+687814e2
