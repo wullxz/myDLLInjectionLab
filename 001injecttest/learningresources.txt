@@ -5,5 +5,11 @@ http://blog.opensecurityresearch.com/2013/01/windows-dll-injection-basics.html
 # building dlls with mingw
 http://www.mingw.org/wiki/sampledll
 
+## hacking the functionality of programs
+
 # assembler basics
 http://www.opensecuritytraining.info/IntroX86.html (this is a long tutorial - link to video playlist near bottom of that page)
+
+# codecave and function hooking
+how to redirect the flow of a programm to add additional code:
+http://www.codeproject.com/Articles/20240/The-Beginners-Guide-to-Codecaves

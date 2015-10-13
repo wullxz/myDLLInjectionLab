@@ -14,6 +14,7 @@ extern "C" {
 void __stdcall MODLIB hello(const char * s);
 void MODLIB makeSub();
 void MODLIB makeAdd();
+void MODLIB run();
 
 #ifdef __cplusplus
 }

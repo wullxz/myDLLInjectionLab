@@ -6,7 +6,7 @@ else
 	ENDING = .bin
 endif
 
-all: counter.exe injector.exe mod.dll
+all: clean counter.exe injector.exe mod.dll
 
 # 
 # counter.exe build config:

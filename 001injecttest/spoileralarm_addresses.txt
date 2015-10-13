@@ -3,3 +3,5 @@ gets pointer to counterlib.count function entry point
 
 address of +1:
 687814e2
+->836d0801 (sub)
+->83450801 (add)
